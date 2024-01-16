@@ -10,4 +10,5 @@ https://arxiv.org/pdf/1806.06988.pdf
 
 ## Associated Paper
 
-Our implementation is detailed further in
+Our implementation is detailed further in our paper. See [writeup.pdf](./writeup.pdf) for more information.
+
